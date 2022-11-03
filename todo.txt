@@ -3,3 +3,7 @@
 3.Code
 4.Test
 5.Validate
+6.Play
+7.Sleep
+8.Repeat
+
